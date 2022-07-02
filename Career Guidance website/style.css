@@ -1,0 +1,86 @@
+body{
+  background: #f7dbcd;
+}
+.a{ 
+    border-color: rgb(red, green, blue);
+    font-family: "Times New Roman", Times, serif;
+    font-weight: bold;
+    font-size: large;
+    color: rgb(195, 166, 38);
+}
+div {
+    background-color: rgb(51, 51, 51);
+    overflow: hidden;
+}
+
+
+div a{
+    color: rgb(255, 255, 255);
+    background-color: rgb(51, 51, 51);
+    overflow: hidden;
+  }
+  div a {
+    text-decoration: none;
+    padding: 20px;
+    text-align: center;
+    float: left;
+    color: white;
+}
+ h1 {
+    text-align: center;
+    font-size: 40px;
+    color: rgb(0,0,0);
+}
+.center {
+    display:block;
+    margin-right: auto;
+    border-top-right-radius: 100%;
+    width: 5%;
+  }
+  .Display{
+        display: block;
+        margin-left:1%;
+        margin-right: 100%;
+        margin-top: 5%;
+        width: 25%
+      }
+  .mid{
+        display: block;
+        margin-left: 28%;
+        margin-right: 100%;
+        margin-bottom: 100%;
+        width: 25%
+  }
+  .row {
+    display: flex;
+    background-color: rgb(51, 51, 51);
+    overflow: hidden;
+  }
+  
+  .column {
+    flex: 33.33%;
+    padding: 5px;
+    background-color: rgb(247 219 205);
+    overflow: hidden;
+  }
+  blockquote
+  {
+  background-color: rgb(247 219 205);
+
+  }
+  h2{
+    font-family: cursive;
+  }
+  p{
+    font-size: xx-large;
+  }
+  footer a {
+    text-decoration: none;
+    padding: 20px;
+    text-align: center;
+    float: left;
+    color: black;
+}
+h3{
+  background-color: #f7dbcd;
+}
